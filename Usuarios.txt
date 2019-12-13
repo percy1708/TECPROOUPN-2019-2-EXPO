@@ -1,0 +1,13 @@
+9;pamela;flores;Femenino;76589943;05/11/94;aujomedi@gmail.com;940218125;MZ C lote 16 La Ensenada;VENDEDOR;pamela vend;CJIdwDEF/3k=
+10;naty;Diaz ;Femenino;74847349;12/02/97;a.diaazcabanillas97@gmail.com;982400432;MZ F lote 10 Trapiche;VENDEDOR;naty vend;CJIdwDEF/3k=
+11;Javier Mariano;Romero Hernandez;Masculino;7475399;09/09/98;javier_2257@hotmail.com;967191935;MZ A lote 14 Comas;VENDEDOR;javier;CJIdwDEF/3k=
+12;paolo;borja;Masculino;70141375;24/08/96;paolo_@gmail.com;949567275;MZ Q lote 2 Urb San Diego;VENDEDOR;paolo vend;CJIdwDEF/3k=
+13;Jorge;Ardiles Reategui;Masculino;74814925;12/01/97;jaar_1201@hotmail.com;946845636;virgo 1025 Urb Mercurio;ADMINISTRADOR;jorge;CJIdwDEF/3k=
+14;aldahir;correa;Masculino;71034056;12/04/95;ploxx95@gmail.com;989411705;Gregorio paredes 409;VENDEDOR;aldahir vend;CJIdwDEF/3k=
+15;Paolo Anthony;Borja Roldan;Masculino;73187712;05/07/95;borjaroldananthony@gmail.com;966412109;Mnz. H lote 7 Urb Taurija;ADMINISTRADOR;gronesito;KfY7inlWCAA=
+16;percy;vilchez;Masculino;70901790;17/08/98;percy_vla@hotmail.com;953123421;el cerro san cristobal costado del puente;ADMINISTRADOR;percy adm;CJIdwDEF/3k=
+17;percy;vilchez alarcon;Masculino;70901790;17/08;percy_vla@hotmail.com;953123421;mz-c-lte-13-callao;VENDEDOR;percy vend;CJIdwDEF/3k=
+18;pamela;flores;Femenino;45678912;18/09/2000;pamela_f@hotmail.com;875689457;comas-lima;ADMINISTRADOR;pamela adm;CJIdwDEF/3k=
+19;aldahir;correa;Masculino;25689745;24/12/2000;aldahir_cor@hotmail.com;356897452;carabayllo-lima;ADMINISTRADOR;aldahir adm;CJIdwDEF/3k=
+20;naty;villanueva;Femenino;57896325;25/11/2000;naty_v@hotmail.com;985632578;independencia-lima;ADMINISTRADOR;naty adm;CJIdwDEF/3k=
+21;paolo;borja;Masculino;45878568;25/09/1999;paolo_b@hotmail.com;897546898;callao-callao;ADMINISTRADOR;paolo adm;CJIdwDEF/3k=

@@ -1,0 +1,4 @@
+4000;jhon;dias;Masculino;DNI;42578451;23;jhon_bjd@hotmail.com;953124578;los olivos-mz c 45
+4001;Deisi;Savedra;Femenino;DNI;54213658;22;deisi_ffdg@hotmail.com;9856213225;los-olivos-mzc-tigf6
+4002;jasmin;dias;Femenino;DNI;646446646;19;jasmin_@hotmail.com;3255595266;mz-c-los olivos- lima
+4003;ever ;vilchez;Masculino;DNI;7577717171;25;tthfghfhfgbfb;535825242442;fgbfgfbfbf
